@@ -260,21 +260,6 @@ if submit_button:
                  "Legitimate URL", "Phishing URL"])
     # , title='Phishing Website Detection percentage for both the Teams'
     st.plotly_chart(fig)
-    
-    
-        
-# st.progress(progress)
-    # col1, col2, col3 , col4, col5 = st.beta_columns(5)
-    # with col1:
-    #     pass
-    # with col2:
-    #     pass
-    # with col4:
-    #     pass
-    # with col5:
-    #     pass
-    # with col3 :
-    # #    st.dataframe(my_dataframe)
        
        
        
